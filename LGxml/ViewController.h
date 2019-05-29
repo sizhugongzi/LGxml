@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  LGxml
+//  LGXML
 //
-//  Created by 甘延娇 on 2019/5/29.
-//  Copyright © 2019 tencent. All rights reserved.
+//  Created by 甘延娇 on 2019/5/14.
+//  Copyright © 2019 itheima. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
